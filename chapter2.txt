@@ -1,0 +1,223 @@
+Five Major steps in the accounting cycle:
+	Analyze
+		analyze transactions from source documents
+	Record
+		journalize transactions
+		prepare unadjusted trial balance
+	Adjust
+		journalize adjusting entries
+		prepare adjusted trial balance
+	Report
+		Prepare financial statements
+	Close
+		Journalize closing entries
+		prepare post-closing trial balance
+
+Analyze and record transactions using the accounting equation
+	Assets = Liabilities + Stockholders' Equity
+	The accounting equation provides a convenient way to analyze and summarize accounting transactions
+		the accounting equation must always balance so at least two elements are always affected by each recorded transaction
+		double-entry accounting
+
+Accounting Transaction
+	an economic event that must be recorded in the company accounting records
+	an event that affects any of the elements of the accounting equation - assets, liabilities, or stockholders equity
+
+Expanded Accounting Equation
+	Assets = Liabilities + Stockholders' Equity
+					|
+			-----------------
+			|	      |
+		  Common Stock     Retained Earnings
+				   |
+				   + Revenues
+				   |
+				   - Expenses
+				   |
+				   - Dividends
+
+Using the Accounting Equation to Analyze Transactions
+
+Transaction 1: Steve Gates invested $30,000 cash in exchange for all of the common stock of WebWork
+	Assets	= Liabilities + Stockholders' Equity
+	Cash	=	      + Common Stock
+	+$30,000 = 	      + $30,000		Issued Stock
+
+Transaction 2. Paid Rent in Advance, 1800 per month for 6 months, total is 10800.
+	Assets = Liabilities + Stockholders' Equity
+     Cash + Prepaid Rent =  + Common Stock
+    $30,00			$30,000
+   -$10,800  + +$10,800		
+   $19,200  + $10,800		$30,000
+	$30,000			$30,000
+
+Transaction 3: WW purchased $2,850 of office supplies on account
+	office supplies are recorded as an asset
+	on account: denotes purchase/sale of product or services on credit not for cash
+	Accounts payable is the amount of cash a business needs to pay for its "on account" purchase or some incurred expenses
+
+Transaction 4: Signed Bank Note for Cash
+	Cash increases, so assets go up
+	Notes Payable amount goes up, so Liabilities increase
+	Interest typically comes with the bank loan
+
+Transaction 5: Purchased Equipment with Cash
+	Cash decrease, so assets go down
+	Equipment increases, so assets go up
+	
+Transaction 6: WW received prepayment of $3,000 for services to be performed over the next few months
+	Unearned Revenue: liability because the company accepted payment for goods or services that haven't been recognized
+	Cash does go up, Assets increase
+	Unearned Revenue goes up, Liabilities increase
+
+Hiring an Employee that doesn't start for another few days and will be paid biweekly:
+	No changes to accounting equation until money actually moves
+
+Transaction 7: Provided Services to Customers for Cash
+	Revenue increases, increases Stockholders Equity
+	Cash increases, increases Assets
+
+Transaction 8: Provided Services for Cash and On Account ($1,000 cash, $3,740 on account paid within 90 days)
+	Cash goes up $1,000, Assets increase
+	Account Receivable goes up $3,740, Assets Increase
+	Revenue increased $,4740 -> Retained Earnings Increase -> Stockholders Equity increase
+
+Transaction 9: Paid Employee Wages
+	Employee was paid $1,620 after first two weeks
+	Cash decreases, Assets Decrease
+	Expenses increase (Wage expense) -> Retained Earnings Decrease -> Stockholder Equity Decrease
+
+Transaction 10: Received Payment on Account from Customer
+	WW received payment of $2,400 who'd previously received services performed on account
+	Cash increases, receives $2,400, Assets increase
+	Accounts Receivable decrease, lose $2,400, Assets decrease
+	Assets stay the same
+
+Transaction 11: Paid Cash Dividend
+	WW paid $500 for a cash dividend
+	Dividends are increased -> Retained Earnings are decreased -> Stockholders Equity is decreased
+	Cash decreases -> Assets decreases
+
+Account:
+	an individual record of the increases and decreases in a specific asset, liability, or stockholders' equity item
+	an account is created for each individual asset, liability, and stockholders' equity item on a company's financial statements
+	some common account titles are Cash, Account Receivable, Notes Payable, Fee Revenue, and rent expense
+
+Chart of Accounts
+	is a list of the titles of all accounts in  business's accounting system
+	account titles are grouped by, and in the order of, the size major components of accounting equation:
+		assets, liabilities, stockholders equity, revenues, expenses, and dividends
+The T-Account
+	A simplified form of an account that is used to capture the effects of transactions
+	
+					Account Title (e.g., Cash)
+				_______________________________________
+				Debit (left side) | Credit (right side)
+	
+	Entries on the left side of any account are debits
+	Entries on the right side of any account are credits
+
+System of Debits and Credits
+	Debit always refers to the left side; credit always refers to the right side
+	Assets increase with debits; decrease with credits
+	Liabilities and Stockholders' Equity increase with credits; decrease with debits
+	The 'normal balance' of an account is the side where increases are recorded
+	Revenues increase with credits; expenses increase with debits
+	Dividends increase with debits
+
+WebWork Cash T-Account
+
+	+		Cash (A)		-
+-----------------------------------------------------------
+(1) 30,000			    10,800     (2)
+(4) 36,000 			    32,400     (5)
+(6) 3,000			    1,620      (9)
+(7) 13,510			    500	       (11)
+(8) 1,000
+(10) 2,400
+-----------------------------------------------------------
+	85,910				45,320
+-----------------------------------------------------------
+Bal. 	40,590
+
+Record a journal entry for each accounting transaction in the General Journal
+
+Journal entries include the following information:
+	Date of transaction	
+	Account titles affected from the chart of accounts
+	Dollar amounts
+	An explanation
+	
+Posting Transactions
+	Post journal entries to the General Ledger
+	A general ledger is a listing of each account of a company and the amounts making up each account. It organizes transaction by account
+	Posting is a process of transferring the debit and credit information from the general journal to the general ledger is called posting
+
+For each transactions we
+	(1) analyze the transaction using the accounting equation
+	(2) journalize the transaction
+	(3) post journal entries to the general ledger
+	
+The Trial Balance
+	A listing of all accounts from the general ledger with their respective debit or credit balances prepared at the end of the accounting period
+		Serves as a check that Debits = Credits
+		Aids in the preparation of the financial statements (but it is not a financial statement)
+	Does not guarantee that the data are error-free
+			Transactions that haven't been journalized
+			Journal entries that have not been posted
+			Journal entries posted in the wrong amounts
+			Journal entries posted to the wrong accounts
+
+Summary:
+	Accounting Cycle:
+		Analyze:
+			analyze transactions from source documents
+		Record:
+			journalize transactions
+			prepare unadjusted trial balance
+		Adjust:
+			journalize adjusting entries
+			prepare adjusted trial balance
+		Report:
+			prepare financial statements
+		Close:
+			journalize closing entries
+			prepare post-closing trial balance
+	Accounting Transaction:
+		an event that affects any of the elements of the accounting equation - assets, liabilities, or stockholders' equity
+	The Double-Entry Accounting System:
+		whenever an accounting transaction is created, at least two accounts are always impacted
+
+	Four Types of Transactions:
+		asset source transactions:
+			increase total assets and total claims, such as acquisition of assets by issuing common stock, acquisition of assets by assuming liabilities, and providing services or goods to customers
+
+		asset exchange transactions:
+			trade one asset for other assets, such as purchase of land, purchase of inventory, purchase of patent and so on
+
+		asset use transactions:
+			decrease total assets and total claims, such as payment of expenses, dividend distributions, and purchase back of capital stock
+
+		claims exchange transactions: increase on claim and decrease another claim, such as accruing interest expense, earning unearned revenue
+
+	Prepaid Items:
+		future expenses that have been paid in advance. it's an asset account. as prepaid items are used, the number of prepaid items is reduced, and the amount of the reduction is reported as an expense
+
+	Supplies:
+		the cost of supplies on hand at a point in time. it's an asset account
+
+	"On Account": an accounting term that denotes the purchase/sale of product or services on credit not for cash
+
+	Accounts payable:
+		the amount of cash that a business need pay for its "on account" purchase or some incurred expenses
+
+	Supplies expense: the amount supplies that were used during the accounting period
+
+	Notes payable:
+		are written promises to pay cash at some future date. Notes usually require the payment of explicit interest in addition to the original obligation amount
+
+	Unearned Revenue:
+		an obligation to performance services or provide goods in the future. As the service/goods are provided, the amount of unearned revenue is reduced, and the amount of the reduction is reported as revenues. Unearned Revenue is a liabilities account
+
+	Accounts Receivable:
+		the amount of cash the company expects to collect in the future. It's an asset account
