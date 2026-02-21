@@ -1,0 +1,158 @@
+Accrual Basis Accounting
+
+Accrual Accounting
+	Requires companies to measure and report accounting transactions regardless of whether cash has been received or paid
+		Required by GAAP (Generally Accepted Accounting Principles)
+	Based on two primary principles:
+		Revenue Recognition
+		Expense Recognition (matching)
+
+Revenue Recognition Principle
+	Revenue is recognized as the amount the seller expects to be paid for the transfer off goods or services
+	Revenue may be recognized before, after or at the same time that cash is received
+	
+	Revenue recognized when cash is received
+
+	April 30 | Cash (+A)		|	100|		A = L + SE
+		 |	Sales Revenue(+R, +SE)     |	100	+100   +100 Rev
+		     to record revenue at time of cash receipt
+	
+	Revenue recognized before cash is received
+
+	April 30| Accounts receivable (+A)		| 100 | 	A = L + SE
+		| 	Sales revenue (+R, +SE)		      | 100	+100	+100 Rev
+		    to recognize revenue earned
+	May 30	| Cash(+A)				| 100 |		A = L + SE
+			Accounts Receivable (-A)	|     | 100	+100
+		    to recognize cash received				-100
+	
+	Revenue recognized after cash is received
+	
+	April 30| Cash (+A)				| 100 |		A = L + SE
+			Unearned revenue (+L)		|     | 100	+100 +100
+		    to recognize the receipt of cash prior to revenue being earned
+	May 30  | Unearned Revenue (-L)			| 100 |		A = L + SE
+			Sales Revenue (+R, +SE)		|     | 100	   -100 +100 rev
+		    to recognize earned revenue	
+
+Expense Recognition (Matching) Principle
+	Accounting requires that the expenses incurred to generate revenues be recognized in the same period
+	Business expenses are recognized (matched) with sales revenue
+	Like recognition of revenue, the recognition of expenses can occur prior to, simultaneously with, or subsequent to the payment of cash
+
+	May 15| Baking Supplies (+A)			| 50| 		A = L + SE
+			Cash (-A)			|   | 50	+50
+		  to record cash payment for supplies			-50
+	May 15| Baking supplies (+A)			| 50|		A = L + SE
+			Accounts Payable (+L)		|   | 50	+50 +50
+		 to record purchase of supplies on account
+
+	In both above cases, the expense for the cost of goods sold is
+
+	May 15| Cost of goods sold (+E, -SE)		| 50|		A = L + SE
+			Baking Supplies (-A)		|   | 50	-50     -50
+		  to record cost of product sold				Exp
+
+Types of Adjustments
+	There are four types of accounting adjustments made at the end of an accounting period:
+
+	Deferrals:
+		Prepaid Expenses
+			Allocating previously recorded assets to expenses
+			Assets go Down
+			Expenses go Up
+		Unearned Revenues
+			Allocating previously recorded unearned revenue to revenue
+			Liabilities go Down
+			Revenue go Up
+	Accruals:
+		Accrued Expenses
+			Recording expense that have not yet been paid
+			Liabilities go Up
+			Expense go Up
+		Accrued Revenues
+			Recording revenues that have not yet been received
+			Assets go Up
+			Revenue go Up
+
+Allocating Previously Recorded Assets to Expenses
+	Many expenditures benefit multiple accounting period
+	These expenditures must be allocated over the period benefited
+	
+	Examples include purchases of buildings, equipment, and supplies:
+		prepayments of rent and advertising; and prepayments of insurance premiums
+
+	At the end of each accounting period, the estimated portion of the expenditure that has expired, or that has been used, during the period is transferred from the asset account to an expense account to acieve a proper recognition of revenue and expenses
+
+	These adjustments are identified by inspecting the unadjusted trial balance for costs that benefit multiple accounting period
+
+Depreciation
+	Depreciation is a process of allocating the cost of long-term tangible assets to the periods benefiting from their use
+	Depreciation expense is a periodic expense and is the allocation of the cost of revenue-generating assets over the many periods
+	When recording depreciation expense, the asset's reduction is recorded in a contra account call Accumulated Depreciation, which has a normal credit balance
+
+	Ex: This affects the office equipment, and is exclusive to the process of the buying of office equipment. Depreciation expense can be calculated via the price of getting the equipment and dividing it among the number of months that are equivalent to the expected useful life of the equipment. This will be the monthly linear-depreciation of the office equipment
+
+Allocating Previously Recorded Unearned Revenue to Revenue
+	Unearned revenue is recognized when a business receives fees for services or products before the services or products are rendered
+	The unearned revenue account is also called deferred revenue and represents an obligation to perform a service or provide a product in the future
+	Once the service or product is provided, the revenue is recognized. The required adjusting entry is debit to the unearned revenue account, which reduces the liability account, and a credit to the revenue account for the amount of revenue earned in the current period
+
+Deferred Service Revenue
+	Ex: on Dec 4, WW receives $3,000 in advance to perform work in the following 4 months
+		On Dec 31, WW would make this journal entry:
+
+	Dec 31 | Unearned Revenue (-L)			| 	750|
+			Fee Revenue(+R, +SE)		|	   | 750
+		   to record portion of fee advance earned in December
+
+Recording Previously Unrecorded Expenses
+	A company often incurs expenses before paying for them
+	Usually the cash payments are made at regular time intervals
+	If the accounting period ends on a date that does not coincide with a scheduled cash payment date, an adjusting entry must be recorded to reflect the expense incurred during the period
+	Such expenses are referred to as accrued expenses
+
+Accrued Wages
+	Ex: An employee is paid every two weeks at a rate of $810 per week. The employee has worked one week by Dec 27, and wages will not be paid until January. The adjusting entry at the end of Dec to accrue one week of wage expense follows:
+
+Dec 31 | Wage expense (+E, -SE)		| 810|
+       |	Wages payable (+L)	|    | 810
+	   to record accrued wages for the final week of December
+
+Accrued Interest
+	On Dec 1, WW received $36,000 bank loan with annual interest of 10 percent. The first annual interest payment is due November 30 of next year
+
+	Principal Amount of Note   x   Annual Interest Rate   x   Time as a Fraction of a Year   =   Interest
+	$36,000 		   x	10%		      x		1/12			 =	$300
+
+Dec 31 | Interest Expense (+E, -SE)		|  300|
+       |	Interest Payable (+L)		|     | 300
+	    to record accrued interest expense for December
+
+Recording Previously Unrecorded Revenues
+	Revenues from selling a product or providing a service must be recognized in the period in which the goods are sold or the services are performed
+	A company may provide services during a period that are neither paid for by customers nor billed at the end of the period
+	The end of period adjusting entries are made to reflect any revenues for the period that have been earned but have not yet been paid or billed. Such revenue is often called accrued revenue
+
+Accrued Fees
+	On Dec 2, WW agreed to maintain a company's website in exchange for a monthly fee of $150, payable at the end of every three months. By Dec 31, WW has earned one month of fee revenue, and the following adjusting entry is made:
+
+Dec 31 | Accounts Receivable (+A)		| 150|
+       |	Fee Revenue (+R, +SE)		|    | 150
+	   to record accrued fee revenue earned in December
+
+Prepare Financial Statements
+	Prepare the statements in the following order:
+		Income Statement
+		Statement of Stockholders' Equity
+		Balance Sheet
+		Statement of Cash Flows
+
+Permanent and Temporary Accounts
+	Permanent accounts are accounts whose balances carry over from one accounting period to the next
+		Assets, Liabilities, Stockholders' Equity
+	Temporary accounts gather information for a particular accounting period and then reset to zero by transferring the balance to Retained Earnings - a permanent account
+		Revenues, Expenses, Dividends
+
+Post-Closing Trial Balance
+	A post-closing trial balance is prepared after the temporary accounts have been closed to Retained Earnings
