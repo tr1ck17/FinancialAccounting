@@ -1,0 +1,191 @@
+The expense recognition (matching) principle is best described as:
+	Record an expense in the same time period that the corresponding revenue is recorded
+
+On Dec 1, Optima Corp. paid $6,000 for rent expense covering December, January, and February rent. On December 31, after all adjusting entries, Optima Inc. will report prepaid rent of:
+	$6,000 / 3 months = $2,000 per month, and if 1 month has passed, the amount of prepaid rent will be $6,000 - $2,000 = $4,000
+	$4,000
+
+On November 1, Smith & Sons purchased communication equipment costing $96,000. The equipment will be depreciated over 48 months. The adjusting entry at November 30 would be:
+	Account Name			Debit		Credit
+	Depreciation Expense		2,000
+	Accumulated Depreciation			2,000
+
+On May 1, Phoenix Corporation took out a bank loan of $500,000 to finance the purchase of equipment. The interest rate on the bank loan is 12 percent per year and interest is due annually on April 30. What would be the effect on the accounting equation of the May 31 adjusting entry for interest?
+	Assets			Liabilities			Shareholders' Equity
+	No Effect		Increase $5,000			Decrease $5,000
+
+The Arizona Saguaros Soccer Team sells season tickets and collects the cash in January at the beginning of the season. They collected $24,000 for season tickets. The soccer season starts in February and the season tickets are for 10 games. In February, the team played 2 games. What adjusting journal entry would the Arizona Saguaros record at the end of February?
+	$24,000 / 10 = $2,400 per game, 2 games = $4,800. The Revenue was Unearned at the point of the sales of season passes, but they did have revenue. So money should move from Liabilities to Stockholders' Equity, where Unearned Revenue decreases at the end of Feb, and Revenue increase at the end of Feb, meaning Unearned Revenue under liabilities gets debited and Revenue under Equity gets credited. So, 
+	Account Name			Debit			Credit
+	Unearned Revenue		4,800
+	Revenue							4,800
+
+The Cholla Corporation earned rental revenue of $5,000 in December but will not receive this until January. What is the effect of making the adjusting entry at December 31?
+	Note for myself: if assets change, other side of equation must move in same direction
+			if Liabilities and Equity change, they must move inversely
+	Assets			Liabilities		Shareholders' Equity
+	Increase		No Effect		Increase
+
+Jojoba, Inc., received a one-year 10-percent, $150,000 note receivable on May 1, with interest and principal to be received at maturity. How much interest receivable at maturity. How much interest receivable will be reported on Jojoba's balance sheet as of December 31?
+	Note Receivable is worth $150,000, 10% of $150,000 is $15,000. 8 months have gone by at 1,250 per month, multiplied by each other = 10,000, which is the amount of interest receivable at that point. 
+
+Jerry's Window Service received $14,000 from a client on February 20. This payment was an advance payment for 7 months of window cleaning starting March 1. The window cleaning services are provided equally over the 7 months. At May 31, calculate the balance in the unearned revenue account assuming that all adjusting entries have been properly recorded.
+	$14,000 for 7 months of work, all in unearned revenue. After 3 months, $2,000 * 3, subtract 6k from 14k and $8k is in the unearned revenue account
+
+Mesa Motors received cash in advance from several customers to repair their cars next month. The adjusting entry associated with this is referred to as:
+	Deferred Revenue
+
+What's NOT an example of a closing entry:
+	Closing the Unearned Revenue account to the Retained Earnings account
+
+Which of the following is a distinguishing characteristic of a deferral?
+	It includes the adjustment of an amount previously recorded in a balance sheet account
+
+A company provides services to clients during the period that are neither paid for, nor billed to the clients. What must the company do?
+	Accrue revenue by making an adjusting entry at the end of the period
+
+As of the beginning of the year, the Long Company had equipment totaling $1,800,000 which was depreciated at $150,000 per year. If Long Company makes the appropriate adjusting entry at year end, which of the following is one part of the journal entry that will be made?
+	Depreciation Expense should increase, and therefore should Debit. 
+
+An adjusting entry will NOT take the format of what following entry?
+	A debit to an expense account and a credit to a revenue account (THIS ONE)
+	a debit to an asset account and a credit to a revenue account (true)
+	a debit to a liability account and a credit to a revenue account (true)
+	a debit to an expense account and a credit to a liability account (true)
+
+Rentals, Inc. received $4,800 from a tenant on December 1 for three months' rent of an office. This rent was for December, January, and February. If Rentals, Inc. debited Cash and credited Unearned Rental Income for $4,800 on December 1, what necessary adjustment would be made on December 31?
+	Unearned Rental Income		1,600
+		Rental Income			1,600
+
+Rentals, Inc. received $4,800 from a tenant on December 1 for three months' rent of an office. This rent was for December, January, and February. If Rentals, Inc. debited Cash and credited Unearned Rental Income for $4,800 on December 1, what necessary adjustment would be made on December 31?
+	Unearned Rental Income will be debited, and Rental Income will be credited
+	Unearned Rental Income		1,600
+		Rental Income			1,,600
+
+On September 1, Tsang Company began a contract to provide services to Wilson Company for six months, with the total $21,600 payment to be made at the end of the six-month period. Equal services are provided each month. The firm uses the account Fees Receivable to reflect amounts due but not yet billed. What proper adjusting entry would Tsang Company make on December 31, the end of the accounting period (no prev. adjustment has been made)?
+	4 months have passed at some rate per month, coming out to 14,400 over 4 months. The Fees Receivable should be on Debit, and the Service Fees Earned should be on Credit
+	Fees Receivable			14,400
+		Service Fees Earned		14,400
+
+On December 31, the end of the accounting period, $31,800 in service fees had been earned but not billed or received. The Marsh Company uses the account Fees Receivable to reflect amounts due but not yet billed. The proper adjusting entry would be:
+	Fees Receivable should be Debited as they're an asset, and this should not be a liability, so Service Fees Earned should be Credited, as part of Revenue under Shareholders' Equity
+	Fees Receivable			31,800
+		Service Fees Earned		31,800
+
+William Company paid $48,000 for a two-year insurance policy on October 1 and recorded the $48,000 as a debit to Prepaid Insurance and a Credit to Cash. What adjusting entry should William make on December 31, the end of the accounting period (no prev. adjustment has been made)?
+	Cash will no longer change, and the Assets will decrease over time, meaning the other side must decrease as well. This will be the Expense for the Insurance over time. 3 months have passed, at 2,000 a month, so $6,000 total.
+	Insurance Expense		6,000
+		Prepaid Insurance		6,000
+	Explanation: assets must be credited, expenses must be debited to decrease Shareholders' Equity
+
+During their first year, Alldredge & Associates bought $32,000 worth of supplies for their CPA firm. When purchased, the supplies were debited to Supplies and credited to Accounts Payable. What adjusting entry would Alldredge & Associates make if $8,000 were on hand at year-end?
+	This would mean that the Supplies Asset has gone down, as well as the expense for the supplies actually increasing.
+	Supplies Expense		24,000
+		Supplies			24,000
+
+Chavis Company signed a one-year lease on April 1, 2022, and paid the $22,800 total year's rent in advance. Chavis recorded the transaction as a debit to Prepaid Rent and a credit to Cash. What adjusting entry should Chavis make on December 31, Year 1 (no previous adjustment has been made)?
+	Prepaid Rent should decrease in amount Rent Expense should increase, resulting in Equity decrease
+	Rent Expense			17,100
+		Prepaid Rent			17,100
+
+Assume December 31 is a Wednesday. Webb Company's wages are paid every Friday, and the weekly payroll (for five days) amounts to $6,000. To record the correct amount of expense for December, Webb makes the following entry on December 31:
+	Wages haven't yet been paid, and we are halfway through the week. Wages Payable should increase for this moment at 3,600 to account for the three days worked by Dec 31 for the current week, and Wages Expense should be debited, to lower Equity as Liabilities increase.
+	Wage Expense		3,600
+		Wages Payable		3,600
+
+Which of the following is a permanent account category?
+	Revenues, Liabilities, Expenses, Dividends
+	Liabilities
+
+Which of the following is a permanent account?
+	Retained Earnings, Cash Dividends, Supplies Expense, Service Fees Earned
+	Retained Earnings
+
+Which of the following is a temporary account?
+	Wages Expense
+	Notes Payable
+	Common Stock
+	Land
+	Answer: Wages Expense
+
+The distinguishing feature of a temporary account is that any balance in the account at the end of an accounting period is:
+	Transferred to a permanent stockholders' equity account
+
+Shea Corporation has the following normal account balances in its general ledger at the end of a period:
+Sales Revenue: $1,800,000
+Advertising Expense: 270,000
+Which of the following gives the correct entry required to close only the accounts above?
+	Sales Revenue			1,800,000
+		Advertising Expense		270,000
+		Retained Earnings		1,530,000
+
+In the closing process for a corporation, the Cash Dividends account is closed to:
+	Retained Earnings
+
+Which of the following accounts should NOT appear in a post-closing trial balance?
+	Retained Earnings, Wages Payable, Unearned Service Fees, Depreciation Expense
+	Answer: Depreciation Expense
+
+Which one of the following adjusting entries increases net income for the period?
+Recognition of wages earned, but not paid to employees
+Recognition of rent that had been received in advance from customers
+Recognition of supplies consumed during the period
+Recognition of interest on a note payable
+	Recognition of rent that had been received in advance from customers
+
+Lozano Company obtained $50,000, one-year, 12 percent bank loan on November 1 of the current year. Interest is payable at the end of the loan term. The company's adjusting entry needed on December 31 is:
+	Debit to Interest Expense of $1,000 and a Credit to Interest Payable of $1,000
+
+Transaction Entries, Posting, Trial Balance, and Adjusting Entries
+Mark Gold opened Gold Roofing Service on April 1. Transactions for April are as follows:
+1. Gold contributed his personal funds in exchange for common stock to begin the business
+	15,000
+Assets -> Cash -> +15,000
+Shareholders' Equity -> Common Stock -> +15,000
+
+2. Purchased a used truck for cash
+Assets -> Cash -> -6,100
+Assets -> Equipment -> +6,100
+
+3. Purchased ladders and other equipment for a total of 3,100. paid cash of $1,000, with the balance due in 30 days.
+Assets -> Equipment -> +3,100
+Assets -> Cash -> -1,000
+Liabilities -> Notes Payable -> -2,100
+
+4. Paid two-year premium on liability insurance
+Assets -> Prepaid Insurance -> +6,000
+Assets -> Cash -> -6,000
+
+5. Purchased supplies on account
+Assets -> Supplies -> +6,000
+Liabilities -> Accounts Payable -> +6,000
+
+6. Received an advance payment from a customer for roof repair work to be done in April and May
+Assets -> Cash -> +1,800
+Liabilities -> Unearned Revenue -> +1,800
+
+7. Billed customers for roofing services
+Assets -> Accounts Receivable -> +9,000
+Equity -> Service Revenue -> +9,000
+
+8. Collected on account from customers
+Assets -> Cash -> +6,500
+Assets -> Accounts Receivable -> -6,500
+
+9. Paid bill for truck used in April
+Assets -> Cash -> -75
+Liabilities -> Notes Payable -> -75
+
+10. Paid April newspaper advertising
+Assets -> Cash -> -100
+Equity -> Advertising Expense -> +100
+
+11. Paid assistants' wages
+Assets -> Cash -> -4,500
+Equity -> Wage Expense -> +4,500
+
+12. Billed customers for roofing services
+Assets -> Accounts Receivable -> +5,000
+Equity -> Service Revenue -> +5,000
+
+Some are wrong, might correct later might not
