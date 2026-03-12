@@ -1,0 +1,157 @@
+Understanding Financial Statements
+
+Assets:
+	Current Assets (will be consumer or turned into cash within one year):
+		Cash
+		Short-term marketable securities
+		Accounts receivable
+		Other current assets
+	Non-Current Assets
+		Property, plant, and equipment
+		Intangible assets
+		Other long-term assets
+
+Liabilities:
+	Current Liabilities (will require payment within one year):
+		Accounts payable
+		Accrued expenses payable
+		Short-term notes payable
+		Other current liabilities
+	Long-Term Liabilities
+		Long-term notes payable
+		Other long-term liabilities
+
+Stockholders' Equity
+	Contributed Capital
+	Retained Earnings
+
+Current Assets
+	Assets that are expected to be converted into cash or consumed within the company's normal operating cycle or one year, whichever is longer
+	Listed in order of expected liquidity, which is the ability of an asset to be readily converted into cash
+		Cash
+		Short-term investments
+		Accounts receivable
+		Inventory 
+		Other current assets
+Long-Term Assets
+	Assets that the company does not expect to convert into cash during the normal operating cycle, or one year, whichever is longer
+		Property, plant, and equipment
+		Intangible assets
+		Other long-term assets
+
+Property, Plant, & Equipment (PP&E)
+	Assets with a physical presence
+		Land
+		Buildings
+		Equipment
+		Vehicles
+		Furnishings
+Intangible Assets
+	Assets that lack a physical presence
+		Brand names
+		Copyrights
+		Patents
+		Trademarks
+
+Current Liabilities
+	Obligations that must be settled within the normal operating cycle or one year, whichever is longer
+	Listed in order of maturity
+		Accounts Payable
+		Accrued Expense
+		Short-term notes payable
+		Other current liabilities
+Long-Term Liabilities
+	Obligations that are not due to be settled within the normal operating cycle, or one year, whichever is less
+		Long-term notes payable
+		Bonds payable
+Stockholders' Equity
+	The residual ownership interest in the assets of a business after its liabilities have been settles
+	Two major categories:
+		Common stock
+			Amount invested by stockholders
+		Retained Earnings
+			Cumulative net income of the business that has not been distributed to stockholders
+
+Balance Sheet Presentation
+	Which of the following is not an item on a classified balance sheet?
+	Current Liabilities
+	Long-term assets
+	Sales revenue
+	Retained earnings
+	Answer: Sales Revenue
+
+Single-Step Income Statement
+	Subtracts the sum of expenses from the sum of revenues to calculate net income
+
+Multi-Step Income Statement
+	Presents revenues and expenses in various categories and calculates several subtotal performance measures before net income
+		format differs somewhat for merchandising firms and services firms
+	Facilitates financial analysis and management decision-making
+
+Net sales = Total sales - sales returns and allowances - sales discounts
+
+Which of the following is not a component of a multi-step income statement
+	Operating expenses
+	Net sales
+	Income from operations
+	Current assets
+	Answer: Current Assets
+
+Ratio Analysis
+	Relation of one accounting number to another through the process of division
+		Expressed as a percentage, a rate, or a proportion
+	Used to evaluate operating performance and financial health of a company
+	An example: Return on Assets (ROA) = Net income / Total assets
+	Techniques:
+		Trend analysis
+			compares same company over time
+		Benchmarking
+			compares company to peer firms
+
+Working with the Balance Sheet
+	Identifies how assets are funded
+		debt
+		equity (common stock and retained earnings)
+	Evaluate the firm's financial health
+		liquidity: refer to a company's ability to pay its short-term financial obligation. It depends on several factors, including the level of cash a company has and how quickly it can generate cash from operations or its assets
+
+		solvency: refer to a company's ability to pay its long-term financial obligation
+
+Liquidity
+	Ability to pay short-term obligations from cash and current assets
+	Current ratio = Current assets / current liabilities
+	Current sufficient current assets to pay its current obligations
+
+Solvency
+	Ability to pay obligations over the long-term
+	Debt-to-Total Assets ratio = Total liabilities / Total assets
+
+Working with the Income Statement
+	Profitability Analysis
+		Ability to generate profit from the firm's operations
+		Return on sales ratio = net income / net sales
+		Higher ratio indicates a more profitable company
+		Helps in comparing different size firms
+
+Working with the Statement of Stockholder's Equity
+	The statement of stockholder's equity consists of two parts:
+		contributed capital
+			capital contributed by the stockholders of the company
+		earned capital
+			capital earned by the company, reinvested in the business, and not distributed to the stockholders - that is, its retained earnings
+
+Working with the Statement of Cash Flows
+	Company's cash inflows (sources) and cash outflows (uses) over a period
+	Categorized by type of business activity:
+		operating, investing, financing
+	Free cash flow = 
+		cash flow from operations - Capital Expenditures for PP&E
+			cash flow available after maintaining current level of capital investment
+
+Which of the following involves an analysis of the income statement?
+	Current ratio
+	Return on sales ratio
+	Debt-to-total assets ratio
+	Free cash flow
+	Answer: Return on Sales ratio
+
