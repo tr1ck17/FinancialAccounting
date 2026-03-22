@@ -1,0 +1,49 @@
+Internal Control and Cash
+
+Fraud
+	Any act by management or employees of a business involving an intentional deception for personal gain
+	Types of fraud:
+		Embezzlement of cash
+		Theft of assets
+		Filing false insurance claims
+		Financial statement fraud
+	Any person, under the right circumstances, is capable of committing fraud
+The Fraud Triangle
+	Pressure
+		Nearly all frauds are committed by individuals under financial pressure
+		Financial statement fraud is often associated with pressure to meet or beat expectations
+	Rationalization
+		Attempt to justify actions to overcome feelings of guilt
+	Opportunity
+		Perception that there is a chance to get away with it
+Internal Controls
+	Measures undertaken by a business to ensure the reliability of the accounting data, protect assets from unauthorized use, and ensure employees are following policies and procedures
+		Reduce the likelihood of errors
+		Catch any errors that may occur
+		Responsibility of management
+The COSO Framework
+	The Committee On Sponsoring Organizations' framework identifies five internal control components:
+		Control environment
+		Risk assessment
+		Control activities
+		Information and communication
+		Monitoring activities
+Accounting for Cash
+	Cash includes coins, currency, checks, money orders, checking and savings accounts
+	Cash is often reported combined with cash equivalents
+		Liquid investments with maturity of 90 days or less
+		Certificates of deposit, U.S. Treasury bills, and money market accounts
+	Cash that is restricted in its use must be reported separately
+
+Bank Reconciliation
+	The bank reconciliation is a schedule that accounts for all differences between the balance of cash on the bank statement and the Cash account in the general ledger
+	After preparing the bank reconciliation, internal audit records journal entries to bring the balance in the Cash account to the reconciled cash balance
+
+Effective Cash Management
+	Manage accounts receivable
+		Faster collection provides cash to pay obligations as they come due
+	Manage inventory levels
+		Keep inventory levels as low as possible without damaging relationships with suppliers or incurring penalties
+	Invest excess cash
+		Hold the amount of cash necessary to meet day-to-day needs; invest any excess to earn a higher return
+	Monitor the effectiveness of a company's cash management using the statement of cash flows
