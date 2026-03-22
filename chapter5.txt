@@ -1,0 +1,146 @@
+Accounting for Merchandising Operations
+Merchandising Operations
+	Manufacturers convert raw materials and component parts into finished products
+	Merchandisers buy finished products for resale to a customer
+		Wholesalers buy finished products in large volumes from manufacturers and sell the product in smaller quantities to retailers
+		Retailers typically buy products from wholesalers for sale to the general public
+
+Operating Cycle of a Merchandising Firm
+	Three primary steps for merchandising firms:
+		Purchase merchandise (Inventory/Accounts payable or cash)
+		Sell merchandise (Account receivable)
+		Receive cash from customer (Cash)
+
+Cost Flows
+	Beginning Inventory + Cost of Goods Purchased
+		  Cost of Goods Available for Sale
+	Ending Inventory    +     Cost of Goods Sold
+
+Inventory Systems
+	Perpetual System
+		Cost of goods sold is calculated after every sale
+		Inventory balance is kept "perpetually" up-to-date
+		Provides greater control over inventory
+		Better able to determine theft or spoilage
+	Periodic System
+		Cost of goods sold is calculated "periodically" when a physical count of inventory is taken
+		Actual balance of inventory is unknown until the periodic count
+
+Accounting for Purchases of Merchandise Perpetual Inventory System
+	Debit Inventory for the acquisition cost and either:
+		Credit Cash if the purchase is for cash, or
+		Credit Accounts Payable if the purchase is on account
+	Kali Company purchases 200 cameras on account for resale to customers. The cost of the cameras is $42,000. The following journal entry records this transaction:
+	Inventory (+A)		42,000
+	 Account payable (+L)		42,000
+	to record the purchase of 200 cameras for resale
+
+Transportation Costs
+	All costs incurred to get the merchandise ready for resale are included in the cost of inventory
+
+	Transportation costs incurred by Buyer:
+		When the buyer is responsible for shipping costs, it is referred to as FOB shipping point
+		Kali Company pays $200 in shipping costs on the inventory purchased from seller. The following journal entry records this transaction:
+	Inventory (+A)		200
+	 Cash (-A)		  200
+	to record shipping costs paid for 200 cameras
+
+	Transportation costs incurred by Seller
+		When the seller is responsible for shipping costs, it is referred to as FOB destination
+		Malibu Company pays $300 in shipping costs to deliver the inventory to a buyer. The following journal entry records this transaction:
+	Freight-out expense (+E, -SE)		300
+	 Cash (-A)				 300
+	to record payment for the transportation costs for goods sold
+
+Purchase Returns and Allowances
+	Purchase returns
+		return of merchandise by the buyer for credit
+	Purchase allowances
+		reduction in the purchase price, often to induce the buyer to keep merchandise that might otherwise be returned
+	Assume Kali returns 20 cameras. The cameras originally cost Kali $210 each
+	Accounts Payable (-L)		4,200
+	 Inventory (-A)			  4,200
+	to record the return of 20 cameras
+
+Purchase Discounts
+	Sellers often extend credit to customers to increase sales
+		The credit period is the maximum time given for a payment
+		for example, 30 days terms will be stated as n/30
+	Extending credit delays the receipt of cash for the sale
+		a purchase discount may be given to provide an incentive for faster payment. a discount is the amount will be deducted from the invoice price if payment is made within the allowed discount period
+		for example, a 2% discount if paid in 10 days is stated as 2/10
+	in this example the full terms are 2/10, n/30; this means the buyer can take a 2% discount if paid in 10 days, otherwise the full amount is due in 30 days
+
+Purchase Discount Example
+	Assume Kali purchased 200 cameras on account with the price of $42,000 and returned 20 cameras which are worth of $4,200. The sell provide the cash discount with the terms 2/10, n/30. Kali made payment within the discount period.
+		Payment due before discount: $42,000 - $4,200 returns = $37,800
+		Discount: $37,800 * 2% = $756
+		Net cash payment: $37,800 - $756 = $37,044
+	Kali records the following journal entry:
+		Accounts payable (-L)		37,800
+		  Inventory (-A)		  756
+		  Cash (-A)			  37,044
+		to record payment for 180 cameras within the discount period
+
+
+Accounting for Sales of Merchandise (Perpetual System)
+Requires two journal entries
+	Record Sales Revenue
+		Credit sales revenue and either
+			Debit cash if the sale is for cash, or
+			Debit Accounts receivable if the sale is on account
+	Record Cost of Goods Sold
+		Debit Cost of Goods Sold and credit inventory
+	
+	Kali Company sells 30 cameras on account for $500 each
+	Record Sales Revenue
+		Accounts receivable (+AR)		15,000
+		  Sales revenue (+R, +SE)		  15,000
+		to record the sale of 30 cameras
+	Record Cost of Goods Sold
+	($42,000 - $4,200 - $756) / (200 - 20) = $205.80 each
+		Cost of goods sold (+E, -SE)		6,174
+		  Inventory				  6,174
+		to record the cost of 30 cameras sold
+
+Sales Returns and Allowances
+	Sales returns also require two journal entries
+		Assume Kali had 5 cameras returned from the previous sale
+
+		Sales returns and allowances (+XR, -SE)			2,500
+		  Accounts receivable (-A)				  2,500
+		to record the return of 5 cameras with a unit sales price of $500
+
+		Inventory (+A)						1,029
+		  Cost of Goods Sold (-E, +SE)				  1,029
+		to record the return of 5 cameras with a unit cost of $205.80
+
+	Sakes allowances only require the first journal entry because the goods are not returned
+
+Sales Discount
+	Assume Kali sold the cameras on account with the terms 2/10, n/30 and receives payment with the discount period
+		Amount due before discount: $15,000 - $2,500 returns = $12,500
+		Discount: $12,500 * 2% = $12,250
+		Net cash received: $12,500 - $250 = $12,250
+	Kali records the following journal entry:
+	Cash (+A)			12,250
+	Sales discount (+XR, -SE)	250
+	  Accounts receivable (-A)	  12,500
+	to record cash received and sales discount for 30 cameras within the discount period
+
+Net Sales
+	Sales are returns and allowances and sales discounts are contra-revenue accounts with a normal debit balance
+	Subtracted from gross sales revenue to yield net sales reported on the income statement
+
+	Gross sales revenue - sales returns and allowances - sales discounts = net sales
+
+Gross Profit Percentage
+	Gross Profit Percentage = Gross profit on sales / net sales
+	Gross Profit on sales = Net sales - cost of goods sold
+	Indicates the rate of profit on the goods a company sells before all other costs of running the business are considered
+	Key measure of profitability followed by analysts
+
+Return on Sales Ratio
+	Return on sales ratio = net income / net sales
+	Reveals the net income earned on each dollar of sales
+	Subtracts all costs from net sales, not just the cost of goods sold
