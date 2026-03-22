@@ -1,0 +1,78 @@
+Accounting for Inventory
+
+Inventory Categories
+	Merchandisers generally only have one category of inventory - inventory that is finished and ready for sale
+	Manufacturers have three categories of inventory:
+		Raw materials inventory - items to be used in the production of  products
+		Work-in-process inventory - items partially completed
+		Finished goods inventory - items fully manufactured and ready for sale
+
+Physical Count of Inventory
+	A physical count of inventory is completed to verify the amount of inventory on hand
+	Reasons actual inventory may differ from accounting records:
+		Periodic inventory method is used
+		Theft
+		Spoilage
+		Errors
+
+	Example: Savanna Company maintains a perpetual inventory method. The physical count of inventory taken at year-end reveals that the balance in the Inventory account is $800 more than indicated by the physical inventory count.
+		The following journal entry is recorded to correct the inventory balance
+	Cost of goods sold (+E, -SE)		800
+	  Inventory (-A)			  800
+	to adjust inventory balance to the physical inventory count
+
+Methods of Costing Inventory
+	First-In, First-Out (FIFO)
+	Last-In, First-Out (LIFO)
+	Weighted-Average Cost
+	Methods will generally produce different costs assigned to cost of goods sold and inventory
+
+First-In, First-Out (FIFO) Method
+	Assumes that the earliest units purchased are the first units sold (First-In, First-Out)
+	Last units purchased remain in ending inventory
+Last-In, First-Out (LIFO) Method
+	Assumes that the last units purchased are the first units sold (Last-In, First-Out)
+	Earliest units purchased remain in ending inventory
+	LIFO Conformity Rule:
+		Any company that chooses LIFO for tax reporting must also use LIFO for financial reporting
+
+Weighted-Average Cost Method
+	Averages the total cost of goods available for sale equally among all units
+		Each unit in cost of goods sold and each unit in ending inventory has the same average cost
+	Each time new units are purchased the average cost is recalculated
+	Best suited for business that warehouse a large value of identical goods in a common area (grain, coal, fuel)
+
+An Example for the cost flow methods
+Kanzu Co. sells dog collars. Inventory data for June is as follows:
+	Balance June 1		20 collars @ $12.00 each
+	Purchase June 8		40 collars @ $13.00 each
+	Sale June 13		48 collars @ $30.00 each
+	Purchase June 21	36 collars @ $14.00 each
+	Sale June 26		26 collars @ $30.00 each
+
+Comparing Inventory Costing Methods
+FIFO: Gross profit is larger using FIFO when prices are rising
+	Better for reporting to shareholders
+LIFO: Gross profit is smaller using LIFO when prices are rising
+	Better for reporting on the company's income tax return
+Review of Cost Flow Methods
+	FIFO more closely approximates the physical goods flow for most firms
+	LIFO is popular when inventory costs are rising because of the tax savings
+	Weighted-average cost of goods sold and ending inventory fall between FIFO and LIFO
+
+Errors in Inventory Count
+	Inventory costing methods allocate total goods available for sale to ending inventory and cost of goods sold
+	An error in the ending inventory count will cause an error of an equal amount but opposite direction in cost of goods sold
+	Because ending inventory carries over to become beginning inventory for the following year, both beginning inventory and goods available for sale will be incorrect. This will also cause cost of goods sold to be incorrect
+
+Lower-of-Cost-or-Net Realizable Value Method
+	The recorded cost of ending inventory (using one of the inventory costing methods) cannot exceed its net realizable value (estimated selling price less expected selling costs)
+
+Inventory Turnover
+	Indicates how many times a year, on average, a firm sells its inventory
+	Inventory turnover = cost of goods sold / average inventory
+
+Days' Sales in Inventory
+	Indicates how many days, on average, it takes a company to sell its inventory
+	Days' sales in inventory = 365 / inventory turnover
+	In general, the faster a company turns over its inventory (the smaller the days' sales in inventory), the more profitable the company will be
