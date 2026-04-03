@@ -1,0 +1,95 @@
+Classified balance sheet
+For example:
+Which one of the following is not a current liability?
+A. Taxes payable
+B. Wage expense
+C. Accounts payable
+D. Wages payable
+
+	Answer: Wage Expense
+
+Multistep income statement
+For example:
+What’s the amount of Sales Revenue for Company A with the following data?
+Cost of Goods Sold $2,240,000
+Operating Expenses 560,000
+Sales Discounts 40,000
+Sales Returns and Allowances 260,000
+Net Income 680,000
+
+	Answer: We need to trace the steps backwards and find the Sales Revenue.
+
+	Net Income + Operating Expenses = Gross Profit
+	680,000 + 560,000 = 1,240,000
+
+	Gross Profit + COGS = Net Sales
+	1,240,000 + 2,240,000 = 3,480,000
+
+	Net Sales + Sales Discounts + Sales Returns and Allowances = Sales Revenue
+	3,480,000 + 40,000 + 260,000 = 3,780,000
+
+	Sales Revenue = 3,780,000
+
+Current ratio
+For example:
+A company has net income of $5,000, current assets of $10,000, total assets of $40,000, and
+current liabilities of $8,000. What is the company’s current ratio?
+
+	Answer:
+
+	Current Ratio = Current Assets / Current Liabilities
+	10,000 / 8,000 = 1.25
+
+Solvency
+Data from the financial statements of company B and Company C are presented below (in
+millions):
+Company A Company B
+Total liabilities, Year 2 $70,914 $47,422
+Total liabilities, Year 1 72,208 60,092
+Total assets, Year 2 100,372 73,744
+Total assets, Year 1 94,114 70,416
+Net Sales, Year 2 306,932 163,040
+Net income, Year 2 280 1,572
+To the nearest hundredth, what is the Year 2 debt-to-total assets ratio for Company A?
+
+	Answer:
+
+	Debt-to-total-assets ratio = Total liabilities / Total assets
+	70,914 / 100,372 = 0.706
+
+Return on sales ratio
+For example:
+A company has net income of $5,000, net sales of $20,000, and total assets of $50,000. What is
+the company’s return on sales ratio?
+
+	Answer:
+
+	Return on Sales = Net Income / Net Sales
+	5,000 / 20,000 = 0.25
+	Return on Sales = 0.25
+
+Working with the Statement of Stockholder’s Equity
+For example:
+Company D earns a net income of $430,500 and pays dividends of $39,000 during the period.
+Company D has ending retained earnings of $733,500. What’s the balance in Company D’s
+beginning retained earnings?
+
+	Answer:
+
+	Beginning Retained Earnings + Net Income - Dividends = Ending Retained Earnings
+	x + 430,500 - 39,000 = 733,500
+	733,500 - 430,500 + 39,000 = x
+	Beginning Retained Earnings = 342,000
+
+Working with the Statement of Cash Flows
+For example:
+The following amounts have been taken from the recent financial statements for Company E:
+Current liabilities	Cash from operations 	Expenditures on PPE	Dividends (cash)
+$1,780,000 		$8,400,000 		$3,000,000 		$2,600,000
+What’s the amount of the free cash flow for Company E?
+
+	Answer:
+
+	Free Cash Flow = Net Cash Provided by Operating Activities - Capital Expenditures - Cash Dividends
+	x = 8,400,000 - 3,000,000 - 2,600,000
+	Free Cash Flow = 2,800,000

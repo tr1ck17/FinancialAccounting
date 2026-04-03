@@ -1,0 +1,73 @@
+Merchandisers business definition
+For example:
+Which of the following would not be considered as primarily a merchandising business?
+A. Sam's Clubs
+B. Walmart
+C. Amazon
+D. Ernst & Young (EY)
+
+	Answer:
+
+	Ernst & Young
+
+Cost flows
+For example:
+Company F purchases $180,000 of inventory during the period and sells $54,000 of it for
+$90,000. Beginning of the period inventory was $9,000. What is the company’s inventory
+balance to be reported on its balance sheet at year end?
+
+	Answer:
+
+	Beginning Inventory + Purchases - Cost of Goods Sold = Ending Inventory
+	9,000 + 180,000 - 54,000 = Ending Inventory
+	Ending Inventory = 135,000	(the 90,000 sales revenue is a distraction here)
+
+Credit term of discount
+For example:
+What do the credit terms, 2/15, n/30 mean?
+A. A fifteen percent discount can be deducted if the invoice is paid within two days following the
+date of sale.
+B. A two percent discount can be deducted for a period up to thirty days following the date of
+sale.
+2
+C. A two percent discount can be deducted if the invoice is paid before the fifteenth day
+following the date of the sale.
+D. A two percent discount can be deducted if the invoice is paid after the fifteenth day following
+the sale, but before the thirtieth day.
+
+	Answer:
+
+	C
+
+Net sales
+For example:
+Company G sold $1,800,000 worth of merchandise, had $150,000 returned, and then the balance
+was received during the 2% discount period. What were the company’s net sales?
+
+	Answer:
+
+	(1,800,000 - 150,000) - ((1,800,000 - 150,000) * .02) = net sales
+	1,650,000 - 33,000 = 1,617,000
+
+Gross profit percentage
+For example:
+Company H reports net sales of $5,000, cost of goods sold of $3,000, and net income of $500.
+What is the gross profit percentage for the company?
+
+	Answer:
+
+	To find gross profit:
+	Net Sales - COGS = Gross Profit
+	5,000 - 3,000 = 2,000
+	Gross Profit Percentage = Gross Profit / Net Sales
+		= 2,000 / 5,000
+		= 40%
+	($500 is a distractor used for the "Profit Margin" ratio, not Gross Profit)
+
+Transportation Costs (FOB) Refresh:
+Term			Who Pays Freight		When does Title Pass? (Who owns it on the truck?)
+FOB Shipping Point	Buyer Pays			When the goods LEAVE the seller's dock
+FOB Destination		Seller Pays			When the goods ARRIVE at the buyer's dock
+
+Memory Trick:
+"Shipping Point" means the deal happens AT the point of shipping. The buyer owns it immediately and has to pay to get it home
