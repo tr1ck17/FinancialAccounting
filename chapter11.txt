@@ -1,0 +1,163 @@
+Forming a Corporation
+	A corporation is an organization authorized by the state where it is formed as a separate legal entity
+	The founders of a corporation prepare and file articles of incorporation defining the basic structure of the corporation, its purpose and the amount of authorized stock
+	The founders elect a Board of Directors and adopt the corporation's bylaws
+	The corporation obtains the funds needed to begin operations by issuing (selling) capital stock to stockholders (owners of the corporation)
+
+The Corporate Form - Advantages
+	Separate legal entity
+	Limited liability
+	Transferability of ownership
+	Continuity of existence
+	Capital raising capability
+
+	The ability to raise capital is primarily and the result of two of the other advantages - limited liability and transferability of ownership
+
+The Corporate Form - Disadvantages
+	Organization costs
+	Taxation
+	Regulation and supervision
+
+Par Value
+	The face value of each share of capital stock specified in the articles of incorporation
+	Par value is often set at a trivial amount ($0.01) and is unrelated to market value or issuance price
+	In some states, par value may represent
+		the minimum amount that must be contributed per share
+		the minimum amount of contributed capital that must remain in the corporation (legal capital)
+	Accountants record the par value of stock transactions in a separate capital stock account
+
+No-Par Value Stock
+	Most states permit companies to issue stock without a par value (no-par stock)
+		In this case, the company's board of directors usually sets a stated value representing the corporation's legal capital
+		for accounting purposes, stated value is treated similarly to par value
+Capital Stock
+	Authorized Shares
+		the maximum number of shares that may be issued for each class of capital stock
+	Issued Shares
+		shares that have been sold to stockholders
+	Outstanding shares
+		shares that have been issued and remain in the hands of stockholders
+	Treasury Shares
+		Shares that have been reacquired by the corporation and not cancelled
+
+Common Stock
+	When only one type of capital stock is issued it is called common stock. Common shareholders:
+		Elect the board of directors and vote on corporate matters requiring approval of the owners
+		Share in earnings distributed as dividends
+		Have a residual claim on corporate assets in the event of a liquidation
+	Corporations may issue more than class of common stock with dividend or voting rights
+
+Preferred Stock
+	Dividend preference
+		entitled to a dividend before common stockholders
+		if dividends are cumulative, then any dividends in arrears (omitted dividends in past years) must be paid prior to common shareholders receiving any dividends
+	Asset distribution preference
+		preference over common stockholders in liquidation
+
+Stock Issuance
+	Issuing stock with a par value
+	Lester Corporation issues 100 shares of $100 par value preferred stock for $13,000 and 100 shares of no-par (and no stated value) common stock for $3,000
+
+	Cash (+A)							13,000
+	   Preferred stock (+SE)			   		   10,000
+	   Paid-in capital in excess of par value - preferred stock	   3,000
+	to record issuance of preferred stock
+
+	Issuing no-par stock
+	Issued 30,000 shares of no-par value common stock, stated value $5, at $8 cash per share:
+
+	Cash (+A)							240,000
+	   Common Stock (+SE)					   	   150,000
+	   Paid-in capital in excess of stated value-Common stock(+SE)	   90,000
+
+Stock Splits
+	A forward stock split increases the number of outstanding shares and proportionately reduces the par (or stated) value of the stock
+	A reverse stock split reduces the number of outstanding shares and increases the par value
+	Stock splits do not change the balances of any stockholder equity accounts
+
+Treasury Stock
+	Shares of the company's stock that it has acquired and holds for purposes other than retiring them
+		For example, to reissue as part of employee stock option plans or to use in acquiring another company
+		Do not have the usual rights of outstanding shares (voting, preemptive, dividends, liquidation)
+	Treasury stock is a contra-equity account
+		Reduces total stockholders' equity on the balance sheet
+
+Accounting for Treasury Stock
+	Kitzer Corporation acquires 200 shares of its common stock for $15 per share
+
+	Treasury stock (+XSE, -SE)				3,000
+	   Cash (-A)						   3,000
+	to record the purchase of 200 shares of treasury stock at $15 per share
+
+	Kitzer later reissues 100 shares of its treasury stock for $20 per share
+
+	Cash (+A)						2,000
+	   Treasury Stock (-XSE, +SE)				   1,500
+	   Paid-in Capital - treasury stock (+SE)		   500
+	to record the sale of 100 shares of treasury stock at $20 per share
+
+	No gain (or loss) is recognized on the income statement for transactions in the company's own stock
+
+Cash Dividends
+	Dividends are a distribution of assets or shares of stock from a corporation to its shareholders
+		Dividends are not required to be paid by a corporation; however, they become a liability once they are declared
+		Dividends are not considered an expense and do not appear on the income statement; instead, they are a direct reduction of retained earnings
+		Cash is the most common form of dividend distribution
+
+	Cash dividends (-SE)				1,000
+	   Cash (-A)					   1,000
+	to record the declaration and payment of cash dividends
+
+Stock Dividends
+	Stock dividends are accounted for as a transfer of retained earnings to contributed capital
+		total stockholders' equity does not change
+		The proportionate ownership of each shareholder does not change
+	Small stock dividends are a distribution of < 25% of the number of shares previously outstanding
+		Recorded at the market value of the shares issued
+	Large stock dividends are  distribution of > 25% of the number of shares previously outstanding
+		Recorded at the par value of the shares issued
+
+Stock Dividends
+	Wen Corporation has 100,000 shares of $1 par common stock outstanding. The current market price of Wen's shares is $25
+		Assume Wen declares and distributes a 10% stock dividend
+
+	Retained earnings (-SE)					250,000
+	   Common Stock (+SE)					   10,000
+	   Paid-in capital in excess of par (+SE)		   240,000
+								   0
+	to record the declaration and distribution of a small stock dividend
+
+		Assume Wen declares and distributes a 100% stock dividend
+
+	Retained earnings (-SE)					100,000
+	   Common Stock						   100,000
+								   0
+	to record the declaration and distribution of a large stock dividend
+
+Statement of Retained Earnings
+	The statement of retained earnings reports
+		1. the beginning balance of retained earnings
+		2. items that caused retained earnings to change, and
+		3. the ending balance
+	Typical changes to retained earnings include net income or loss, and dividends declared
+
+Statement of Stockholders' Equity
+	Most corporations present a statement of stockholders' equity reconciling all stockholders' equity accounts for the accounting period
+
+Analyzing Stockholders' Equity
+	A financial ratio of particular interest to common stockholders is the return on equity (ROE)
+
+	Return on equity = net income / average stockholders' equity
+
+		this ratio measures the overall profitability of the stockholders' investment in the company
+
+Analyzing Dividend Policy
+	Some investors are primarily interested in receiving cash dividends while other investors focus on appreciation of the market value of their shares
+
+	Dividend Yield = annual dividend per share / market price per share
+
+		The dividend yield measures the rate of return in cash dividends from an investment in the company's common stock
+
+	Dividend payout = annual dividend per share / earnings per share
+
+		The dividend payout ratio measures the percentage of the net income available to common shareholders that is paid out as dividends
