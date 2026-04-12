@@ -1,0 +1,126 @@
+Current Liabilities
+	Liabilities are obligations resulting from past transactions or events that require a company to pay money, provide goods, or perform services in the future
+	Current liabilities are due within the next year or normal operating cycle, whichever is longer
+
+Accounts Payable and Notes Payable
+	Accounts payable
+		Amounts due to short-term creditors
+		Usually non-interest bearing
+	Notes payable
+		Promissory notes with credit periods longer than the 30 to 60 days typical with accounts payable
+		Usually interest bearing
+
+Interest Payable Example
+	Pomona Corporation signed a 90-day note on November 1, for $10,000 with 6 percent annual interest in exchange for equipment.
+
+	Nov. 1 Equipment (+A)					10,000
+		 Notes Payable (+L)				   10,000
+
+	Dec 31 Interest Expense (+E, -SE)			100
+		 Interest payable (+L)				   100
+		(to accrue interest expense (10,000 * 0.06 * 2/12)
+
+	Jan. 31 Interest Expense (+E, -SE)			50
+		Interest Payable (-L)				100
+		Notes Payable (-L)				10,000
+		   Cash (-A)					   10,150
+
+Unearned Revenue
+	Advanced payments from customers
+		Recorded as a liability until the products are delivered or the service is provided
+		Examples include tickets sold in advance of an event or advance payments for services
+
+	Assume Southwest Airline sells a ticket on June 1 for travel on July 15 for $300
+	June 1 Cash (+A)				300
+		 Unearned Revenue (+L)			   300
+	July 15	Unearned Revenue (-L)			300
+		  Ticket Revenue (+R, +SE)		   300
+
+Payroll-Related Liabilities
+	Payroll expenses are a major cost for most firms
+	Salaries and wages
+	Amounts withheld from employees' paychecks
+		Federal, state, social security, and Medicare taxes
+		Health insurance, union dues, and retirement
+	Payroll taxes and benefits paid by the employer
+		FICA (Social Security and Medicare), federal and state unemployment taxes
+
+Notes and Bonds
+	Notes are typically repaid in equal periodic installments (monthly, quarterly, or annually) that include an amount for interest and a partial repayment of the principal
+		Usually arranged with a single lender
+	Bonds pay periodic interest (usually semi-annual) in addition to the principal amount at maturity
+		Usually issued to a large number of buyers
+
+Bonds Terminology
+	Face Value-the amount that will be paid to the bond holder when the bond matures. Typically, each bond has a $1,000 face value
+	Coupon Rate - the rate at which periodic interest will be paid on the bond, typically semiannually
+	Market Rate - the rate the market uses to value the bond's future cash flows of interest and principal
+		Can differ from the coupon rate stated on the bond certificate because of a delay in issuing bonds after they are printed
+
+Bond Discounts and Premiums
+Recording Bond
+	To Record bond issued at face value
+
+	Cash (+A)
+	   Bonds Payable (+L)
+	to record the issuance of bonds
+
+	Bond interest expense (+E, -SE)
+	   Cash (-A)
+	to record the payment of semiannual interest on bonds
+
+	Bonds payable (-L)
+	   Cash (-A)
+	to record the retirement of bonds
+
+Recording Bond
+	To record bond issued at a discount:
+
+	Cash (+A)
+	Discount on bonds payable (+XL, -L)
+	   Bonds payable (+L)
+	to record the issuance of bonds
+
+Recording Bond
+To record bond issued at a premium:
+	Cash (+A)
+	   Bonds payable (+L)
+	   Premium on bonds payable (+XL, +L)
+	to record issuance of bonds
+
+Financial Statement Presentation
+	Discount on bonds payable is a deduction from the face value of bonds payable
+
+	Bonds payable			100,000
+	Less: Discount on bonds payable	6,463
+	Bonds payable, net		93,537
+
+	Premium on bonds payable is as an addition to the face value of bonds payable:
+
+	Bonds payable				100,000
+	Add: premium on bonds payable		7,020
+	Bonds payable, net			107,020
+
+Analyzing Liabilities
+	Working capital is defined as the difference between current assets and current liabilities
+		In general, higher working capital is preferable and viewed as a sign of a stronger financial position
+	Two measures of the adequacy of working capital are:
+		Current ratio
+		Quick ratio
+Current Ratio
+	Current assets / Current liabilities
+
+	Historically, a current ration below 2 was considered a potential concern
+	More recently, many companies successfully maintain much lower current ratios through effective management of receivables, inventory, and accounts payable
+
+Quick Ratio
+	(Cash and cash equivalents + short-term investments + accounts receivable) / current liabilities
+
+	Cash and cash equivalents, short-term investments and accounts receivable are known as "quick assets" because they are more quickly converted into cash than other current assets such as inventory
+
+Times-Interest-Earned Ratio
+
+	Income before interest expense and income taxes / interest expense
+
+	The times-interest-earned ratio provides an indication of a company's ability to make periodic interest payments to its creditors
+	Many investment professionals believe the ratio should be at least in the 3.0-4.0 range
