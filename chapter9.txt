@@ -1,0 +1,121 @@
+Long-Lived Assets
+	Three categories of long-lived assets
+		Plant Assets
+		Intangible Assets
+		Natural Resources
+Plant Assets
+	Plant assets refer to a company's long-lived property, plant, and equipment
+		Land
+		Buildings
+		Equipment
+		Furniture and fixtures
+Intangible Assets
+	Intangible assets are economic resources that benefit the company but lack physical substance
+		Copyrights
+		Trademarks
+		Patents
+		Franchises
+Natural Resources
+	Natural resources are resources supplied by nature
+		Timber stands
+		Mineral deposits
+		Oil and gas deposits
+Long-Lived Assets Summary
+	Asset Category				Examples			Term for the Periodic Write-Off to Expense
+	Plant assets			Buildings, equipment, tools, vehicles			Depreciation
+	Intangible Assets		Patents, copyrights, leaseholds, franchises		Amortization
+	Natural Resources		Timber, coal, oil and gas reserves, mineral deposits	Depletion
+
+Accounting for Long-Lived Assets
+	Accounting Issues:
+		1. Account for the acquisition cost
+		2. Allocate the asset's cost to expense over time
+		3. Account for future expenditures related to the assets
+		4. Account for the disposal of assets
+
+Measuring Acquisition Cost
+	Long-loved assets are initially recorded at their acquisition cost
+	Also called the historical cost
+	includes the cash paid to acquire the asset and get it ready for its intended use
+		Sales taxes, freight charges, installation, testing
+
+Package Purchases
+	The total cost of assets purchased as a group is allocated to the individual assets because they may have different accounting and reporting requirements
+	The allocation is based on relative market value or appraisal values
+	For instance, Smith & Sons purchased a freight terminal that included land, a building, and equipment is $60,000, $120,000, and $20,000, respectively. How to allocate the $190,000 acquisition price among the three assets
+
+Nature of Depreciation
+	Systematic allocation of the cost of plant assets to the periods the assets are used in revenue generating activities
+		Depreciation is not intended to measure changes in the asset's market value
+		Land is not depreciated because it is considered to have an unlimited useful life
+
+Calculating Depreciation Expense
+	Calculating depreciation requires:
+		1. Cost of the asset
+		2. Estimated useful life of the asset to the firm
+		3. Estimated salvage value when the asset is sold or removed from service
+		4. Depreciation method:
+			straight line
+			declining balance
+			units-of-production
+
+Straight-Line Method
+	Annual Depreciation = (Acquisition cost - Salvage value) / Estimated useful life
+	Assume equipment acquisition cost of $5,000; three-year useful life; $500 salvage value
+
+	($5,000 - $500) / 3 years = $1,500 per year
+
+	Depreciation expense (+E, -SE)			$1,500
+	   Accumulated depreciation (+XA, -A)		   $1,500
+
+Disposal of Plant Assets
+	To record a sale or retirement:
+		1. Remove asset's original cost
+		2. Remove accumulated depreciation
+		3. Record proceeds
+		4. Record any gain or loss
+			Difference between proceeds received and book value
+	Plant assets can also be exchanged for another plan asset
+		Involves more complicated accounting not covered in this textbook
+
+Disposals of Plant Assets Example
+	A vehicle with an acquisition cost of $20,000 and accumulated depreciation of $18,000 is sold for $3,500
+
+	3. Cash(+A)					3,500
+	2. Accumulated depreciation (+XA, -A)		18,000
+	1.    Vehicles (-A)				     20,000
+	4.    Gain on sale (+Gain, +SE)			     1,500
+
+	If the vehicle was sold for $1,500, step 4 would be a debit to Loss on sale for $500
+
+Intangible assets benefit a company's operations but do not have a physical substance
+	Patents - an exclusive privilege granted to an inventor for a period of 20 years
+	Copyrights - protects an owner against unauthorized use of a written work, recorded work, or artwork for the life of the author plus 70 years
+	Franchises - exclusive rights to operate or sell a specific brand of product in a given geographic area
+	Trademarks - the right to use certain terms, names, or symbols
+	Goodwill - the amount paid by a company for another company above the identifiable net assets of the acquired company
+
+Accounting for Intangible Assets
+	Intangible assets acquired from outside entities are recorded at their acquisition cost
+	Intangible assets with a limited life:
+		Amortize over the expected useful life generally using the straight-line method with no salvage value
+		The journal entry debits amortization expense and credits the intangible asset account - there is no accumulated amortization account
+	Intangible assets with an indefinite life:
+		Goodwill
+		Not amortized
+	Research and development expenditures are expensed as incurred (not capitalized as an intangible asset)
+
+Natural Resources
+	Resources supplied by nature, such as standing timber, iron ore, coal, gold, and silver
+	Recorded on the balance sheet at acquisition cost plus exploration and development costs
+	Depletion is recorded as natural resources are removed using a method similar to the units-of-production method for plant assets
+		The journal entry debits depletion expense and credits accumulated depletion
+
+Analyzing Assets
+	The ability to use a firm's assets efficiently and effectively is one sign of a well-managed company
+		Return on assets measures how much profit a company is generating from its assets:
+
+		Return on assets = Net income / Average total assets
+	Asset turnover measures how effectively a company uses its assets to generate sales:
+
+		Asset turnover = Net sales / Average total assets
