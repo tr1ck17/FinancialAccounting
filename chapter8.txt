@@ -1,0 +1,178 @@
+Accounts Receivable
+	Asset created by the sale of merchandise or provision of a service on a credit basis
+		Amount owed to the seller by the customer
+		Usually classified as a current asset
+
+		Accounts Receivable (+A)		100
+		   Sales revenue (+R, +SE)		   100
+
+		Cash (+A)				100
+		   Accounts Receivable (-A)		   100
+Losses from Uncollectible Accounts
+	Benefit of extending credit:
+		Increases sales relative to a cash-only policy
+	Cost of extending credit:
+		Customers may fail to pay some or all of the amount they owe
+	Credit losses are considered an operating expense and are debited to an account called Bad Debt Expense
+
+Allowance Method
+	GAAP requires companies to estimate and record credit losses at the time the related revenue is recognized
+		Example of the matching principle
+	The estimate results in an adjusting entry to the contra-asset account Allowance for Doubtful Accounts
+		Accounts receivable less the allowance for doubtful accounts is the amount the company expects to collect (estimated realizable value)
+
+Allowance for Doubtful Accounts Example
+	Scripps Company estimates its bad debts expense for the first year of operations is $500
+
+	Bad debt expense (+E, -SE)			500
+	   Allowance for doubtful accounts (+XA, -A)	   500
+
+Reporting Accounts Receivable
+	Scripps has gross accounts receivable of $14,000
+
+	Current Assets
+	   Cash						$3,000
+	   Accounts receivable			$14,000
+	   Less: Allowance for doubtful accounts    500	13,500
+	   Inventory					9,000
+	   Other current assets				1,000
+	      Total Current Assets			$26,500
+
+Writing Off Specific Receivables
+	Companies write off specific receivables when it is determined the amount will not be collected
+
+	Scripps determines that the account of Lakeland Co. is uncollectible and writes off the $20 balance
+
+	Allowance for doubtful accounts (-XA, +A)		20
+	   Accounts receivable - Lakeland Co. (-A)		   20
+
+Reporting Accounts Receivable
+	The write off does not affect expenses
+		Bad debt expense is recorded as a year-end adjusting entry, not at the time of the write off
+	The write off does not affect total assets
+		Reduces accounts receivable and the allowance for doubtful accounts by the same amount
+
+	Current Assets
+	   Cash						$3,000
+	   Accounts receivable			$13,980
+	   Less: Allowance for doubtful accounts    480 13,500
+	   Inventory					9,000
+	   Other current assets				1,000
+	      Total Current Assets			$26,500
+
+Action						Journal Entry			  Balance Sheet Effect			Income Statement Effect
+Recording Estimated Bad Debts Expense		DEBIT Bad debts expense		UP Allowance for doubtful accounts	UP Bad debts expense
+					 CREDIT Allowance for doubtful accounts	DOWN Accounts receivable, net		DOWN Net income
+Writing-Off Bad Debt			DEBIT Allowance for doubtful accounts	DOWN Accounts receivable		No Change
+					CREDIT Accounts receivable		DOWN Allowance for doubtful accounts
+										No Change Accounts Receivable, net
+
+Recovery of Accounts Written Off
+	Occasionally an account that was written off is subsequently collected
+	Requires two entries to be recorded:
+		1. Reverse the original write-off
+		2. Record the cash collected
+Recovery of Accounts Written Off - Example
+	The $200 receivable written off by Scripps was later collected
+	To reinstate account:
+
+	Accounts receivable - Lakeland Co. (+A)			200
+	   Allowance for doubtful accounts (+XA, -A)		   200
+
+	To record receipt of cash:
+
+	Cash (+A)						200
+	   Accounts receivable - Lakeland Co. (-A)		   200
+
+Percentage of Sales Method
+	Estimate the adjusting entry for bad debt expense by multiplying total credit sales for the period by a percentage that reflects historical credit loss experience
+		Adjust historical percentage to reflect current economic circumstances
+	Calculate the ending balance of the Allowance for Doubtful Accounts
+
+Percentage of Sales Method Example
+	Penn Company. has credit sales of $700,000. Based on past experience, Penn estimates that credit losses will be 3%
+	Bad debts expense = $700,000 * 0.03 = $21,000
+
+	The required adjusting journal entry is as follows:
+
+	Bad debt expense (+E, -SE)				21,000
+	   Allowance for doubtful accounts (+XA, -A)		   21,000
+
+	Penn has a beginning credit balance in the allowance for doubtful accounts of $23,500. During the year, Penn wrote off $22,900 of accounts receivable
+	The ending balance of the allowance for doubtful accounts is calculated as follows:
+
+			Allowance for Doubtful Accounts
+						23,500 Beg. bal.
+	Write off	22,900			21,000 Bad debt expense
+						21,600 End. bal.
+
+Accounts Receivable Aging Method
+	Estimate the ending balance of the allowance for doubtful accounts as a percentage of the outstanding accounts receivable
+		Prepare an aging schedule detailing how long an account has been unpaid and apply a percentage to each age category reflecting the historical probability of noncollection
+	Calculate bad debts expense as the amount necessary to achieve the estimated ending balance of the allowance account
+
+Aging Method Example
+	Tolson has a beginning credit balance in the allowance for doubtful accounts of $400. During the year, Tolson wrote off $320 of accounts receivable
+
+					Allowance for Doubtful Accounts
+								400 Beg. bal.
+				Write off	320		2,290 Bad debt expense
+								2,370 End. Bal.
+	The required adjusting journal entry is as follows:
+
+	Bad debt expense (+E, -SE)			2,290
+	   Allowance for doubtful accounts (+XA, -A)	   2,290
+
+Review of Estimating Credit Losses
+
+	Method						1 Estimate				2 Calculate
+Percentage of Net Sales				Bad Debt Expense		=> 	    Ending Balance in Allowance for Doubtful Accounts
+Accounts Receivable Aging	Ending Balance in Allowance for doubtful accounts		Bad Debt Expense
+
+	Companies should monitor the balance in the allowance for doubtful accounts to ensure that it reflects the amount of accounts receivable that is uncollectible
+
+Credit Card Sales
+	When a customer uses a credit card to make a purchase, the seller collects cash from the credit card company. The customer then pays the credit card company when billed at a later date.
+	Benefits:
+		Seller does not have to evaluate the credit worthiness of the customer and avoids risks of noncollection
+		Seller receives cash faster than if they extended trade credit
+	Costs:
+		Seller is charged a fee, typically 1-5% of the purchase
+
+Credit Card Sale Example
+	Coronado Resorts made $5,000 of credit card sales on June 1. The credit card company charges a 3% credit card fee. The journal entry to record the sales is as follows
+
+	Cash (+A)				4,850
+	Credit card fee expense (+E, -SE)	150
+	   Sales Revenue (+R, +SE)		   5,000
+
+Notes Receivable
+	A promissory notes is a written promise to pay a specified sum of money on demand or at a fixed future date, plus interest at the rate stated in the note
+	Formula for calculating interest:
+		Principal x Interest Rate x Interest time
+	face amount of the note   annual rate of interest   fraction of the year outstanding
+
+Recording Issuance of Notes Receivable
+	Hillside Farms receives a signed promissory note for $10,000 from Spencer Catering to settle the balance of their account. The note is payable in 3 months at an annual interest rate of 6 percent
+	Hillside records the following journal entry upon receipt of the note:
+
+	Note receivable - Spencer (+A)			10,000
+	   Accounts receivable - Spencer (-A)		   10,000
+
+Recording Collection of Notes Receivable
+	Interest on the note = $10,000 * 0.06 * 3/12 = $150
+	Hillside records the following journal entry when Spencer pays the note with interest at maturity:
+
+	Cash (+A)				10,150
+	   Note receivable - Spencer (-A)	   10,000
+	   Interest income (+R, +SE)		   150
+
+	If the term of a note extends beyond the end of the accounts period, an adjusting journal entry is necessary to reflect the interest earned during the period
+
+Analyzing and Managing Receivables
+	A key concern in analyzing and managing receivables is how fast they are being collected
+		Accounts receivable turnover measures how many times a year, on average, accounts receivable is collected
+			Accounts receivable turnover = Net sales / average accounts receivable
+
+		Average collection period measures how many days it takes, on average, to collect accounts receivable
+			Average collection period = 365 / accounts receivable turnover
